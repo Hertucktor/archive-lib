@@ -3,7 +3,7 @@ package config
 import "testing"
 
 func TestGetConfig(t *testing.T) {
-	c, err := GetConfig("test_config.yml")
+	c, err := GetConfig("config_test.yml")
 	if err != nil {
 		t.Error("There should not be an error whilst parsing the yaml file")
 	}
