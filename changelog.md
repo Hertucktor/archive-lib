@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased] - yyyy-mm-dd
 
-## [v1.0.0] - 2022-09-20
+## [v0.1.0@alpha] - 2022-09-20
 
 ### Added
 - github action -> go unit test on PR to develop and main
