@@ -1,4 +1,4 @@
-module github.com/Hertucktor/archlib
+module github.com/Hertucktor/archive-lib
 
 go 1.18
 
