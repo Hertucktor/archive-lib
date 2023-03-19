@@ -1,7 +1,0 @@
----
-dbName: Magic:The-Gathering-Archive
-dbPort: 127.0.0.1:37017
-dbCollectionAllcards: allCards
-dbCollectionMycards: myCards
-dbCollectionSetimages: imgInfo
-dbCollectionSetNames: setNames
